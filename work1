@@ -1,0 +1,15 @@
+#first way
+
+aa="Amal Ibrahim"
+
+print("".join(reversed(aa)))
+
+#second way
+
+txt = "Amal Ibrahim"[::-1]
+print(txt)
+
+
+
+
+
